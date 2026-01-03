@@ -1,0 +1,4 @@
+Employees must submit reports within 7 days.
+Employees must not submit reports after 5 days.
+Managers may approve late submissions.
+All employees must follow company policy.
