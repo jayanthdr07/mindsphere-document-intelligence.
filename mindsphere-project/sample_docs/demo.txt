@@ -1,4 +1,26 @@
-Employees must submit reports within 7 days.
-Employees must not submit reports after 5 days.
-Managers may approve late submissions.
-All employees must follow company policy.
+The documents required for Goods and Services Tax (GST) registration in India depend on the type of business entity. [1]  
+Common Mandatory Documents  
+Regardless of the business structure, the following core documents are generally required for the online registration process on the official  GST Portal  
+:  • Permanent Account Number (PAN): PAN card of the applicant or the business entity is mandatory.
+• Identity and Address Proof: Aadhaar card, passport, voter ID, or driving license of the proprietors, partners, or directors.
+• Photographs: Recent passport-sized photographs of all authorized signatories, partners, or directors (usually in JPEG format, max 100 KB size).
+• Business Address Proof:
+
+• Owned premises: Ownership deed, latest electricity bill, property tax receipt, or municipal khata copy.
+• Rented/Leased premises: A copy of the valid rent/lease agreement and a No Objection Certificate (NOC) from the owner, along with an ownership document (e.g., electricity bill).
+
+• Bank Account Details: A copy of a cancelled cheque or an extract of the bank passbook/statement showing the name of the proprietor/business, account number, and IFSC code (usually in JPEG or PDF format, max 100 KB size).
+• Proof of Business Constitution:
+
+• Sole Proprietorship: No specific document other than owner's details is required, but an Udyam Registration or Shop license is an optional proof.
+• Partnership Firm: Partnership deed.
+• Company/LLP: Certificate of Incorporation issued by the Ministry of Corporate Affairs (MCA), and Memorandum (MoA) and Articles of Association (AoA).
+
+• Digital Signature Certificate (DSC) or EVC: Mandatory for companies and Limited Liability Partnerships (LLPs) for online submission and verification; individuals and partnerships can use Aadhaar-based Electronic Verification Code (EVC).
+• Proof of Appointment of Authorized Signatory: A letter of authorization or a copy of a board resolution is required if the application is submitted by someone other than the owner/director. [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+
+Key Considerations
+
+• Ensure that all names across the PAN, bank documents, and identity proofs match exactly to avoid application rejection.
+• Documents should be clear, scanned copies in the specified formats (PDF or JPEG) and sizes mentioned on the GST Portal.
+• The registration process itself is free of cost, though professional services may charge a fee. [3, 14, 15, 16, 17]
