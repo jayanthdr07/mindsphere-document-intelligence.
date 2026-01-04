@@ -50,6 +50,17 @@ The system provides **clear, explainable outputs** that help users quickly under
 \* PDF support via OCR is part of the architecture design.
 
 ---
+##  Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### File Upload
+![File Upload](screenshots/upload.png)
+
+
+### Analysis Result
+![Result](screenshots/result1.png)
 
 ## 🧠 System Architecture (High-Level)
 
