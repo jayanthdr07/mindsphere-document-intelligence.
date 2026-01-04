@@ -62,21 +62,19 @@ The system provides **clear, explainable outputs** that help users quickly under
 ### Analysis Result
 ![Result](result1.png)
 
-## 🧠 System Architecture (High-Level)
+🧠 **System Architecture (High-Level)**
 
-Document Upload
-↓
-Text Extraction / OCR
-↓
-Clause Segmentation
-↓
-Semantic Understanding (NLP)
-↓
-Contradiction Detection (NLI)
-↓
+Document Upload  
+⬇️  
+Text Extraction / OCR  
+⬇️  
+Clause Segmentation  
+⬇️  
+Semantic Understanding (NLP)  
+⬇️  
+Contradiction Detection (NLI)  
+⬇️  
 Explainable Output / Dashboard
-
-
 
 
 ---
@@ -118,15 +116,18 @@ The MVP demonstrates:
 📌 If live deployment is unavailable, the **GitHub repository + demo video** serve as the MVP proof as per hackathon guidelines.
 
 ---
-
-## ▶️ How to Run the Project Locally
+▶️ How to Run the Project Locally
 
 1️⃣ Install dependencies
-```bash
 pip install -r backend/requirements.txt
+
+⬇️
+
 2️⃣ Start the backend server
-```bash
 uvicorn backend.main:app --reload
+
+⬇️
+
 3️⃣ Run the frontend
 Open frontend/index.html in a browser
 Upload a sample document
