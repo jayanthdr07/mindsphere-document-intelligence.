@@ -47,7 +47,7 @@ The system provides **clear, explainable outputs** that help users quickly under
 - Explainable output for better understanding
 - Working MVP with live demo capability  
 
-\* PDF support via OCR is part of the architecture design.
+
 
 ---
 ##  Screenshots
@@ -113,7 +113,6 @@ The MVP demonstrates:
 - Explainable AI outputs  
 - Clean, animated user interface  
 
-📌 If live deployment is unavailable, the **GitHub repository + demo video** serve as the MVP proof as per hackathon guidelines.
 
 ---
 ▶️ How to Run the Project Locally
